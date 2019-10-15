@@ -1,0 +1,17 @@
+html {
+    height: 100% !important;
+}
+body {
+    background-color: rgb(154, 166, 233);
+ }
+
+
+.App {
+    text-align: center;
+}
+.cardweather {
+    border-radius: 0.65rem !important;
+}
+.lead {
+    font-size: 0.85rem;
+}
